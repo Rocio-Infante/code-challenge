@@ -1,0 +1,14 @@
+{
+  "short_name": "Thrilling Times Magazine",
+  "name": "Shop Thrilling Frontend Code Challenge",
+  "icons": [
+    {
+      "src": "thrilling-logo.ico",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#fcfcfc"
+}
